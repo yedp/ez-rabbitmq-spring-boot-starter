@@ -1,4 +1,4 @@
-package com.ez.common.mq.rabbitmq.actuate;
+package com.github.yedp.ez.common.mq.rabbitmq.actuate;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.boot.actuate.health.AbstractHealthIndicator;

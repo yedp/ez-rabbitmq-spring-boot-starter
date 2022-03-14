@@ -1,4 +1,4 @@
-package com.ez.common.mq.rabbitmq.properties;
+package com.github.yedp.ez.common.mq.rabbitmq.properties;
 
 public class RabbitMqProducerProperty {
     private boolean enabled;

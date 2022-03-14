@@ -1,4 +1,4 @@
-package com.ez.common.mq.rabbitmq;
+package com.github.yedp.ez.common.mq.rabbitmq;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

@@ -1,10 +1,10 @@
-package com.ez.common.mq.rabbitmq.actuate;
+package com.github.yedp.ez.common.mq.rabbitmq.actuate;
 
 
 import java.util.Map;
 
-import com.ez.common.mq.rabbitmq.DynamicRabbitMqClient;
-import com.ez.common.mq.rabbitmq.config.RabbitMqAutoConfiguration;
+import com.github.yedp.ez.common.mq.rabbitmq.DynamicRabbitMqClient;
+import com.github.yedp.ez.common.mq.rabbitmq.config.RabbitMqAutoConfiguration;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.boot.actuate.autoconfigure.health.CompositeHealthContributorConfiguration;
 import org.springframework.boot.actuate.autoconfigure.health.ConditionalOnEnabledHealthIndicator;

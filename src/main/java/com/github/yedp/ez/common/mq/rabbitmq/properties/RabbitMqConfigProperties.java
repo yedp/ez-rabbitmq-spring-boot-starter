@@ -1,4 +1,4 @@
-package com.ez.common.mq.rabbitmq.properties;
+package com.github.yedp.ez.common.mq.rabbitmq.properties;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

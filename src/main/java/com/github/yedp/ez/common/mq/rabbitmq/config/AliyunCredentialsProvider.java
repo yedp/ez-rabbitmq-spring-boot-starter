@@ -1,4 +1,4 @@
-package com.ez.common.mq.rabbitmq.config;
+package com.github.yedp.ez.common.mq.rabbitmq.config;
 
 import com.alibaba.mq.amqp.utils.UserUtils;
 import com.rabbitmq.client.impl.CredentialsProvider;

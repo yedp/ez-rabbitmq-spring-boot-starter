@@ -1,10 +1,10 @@
-package com.ez.common.mq.rabbitmq.config;
+package com.github.yedp.ez.common.mq.rabbitmq.config;
 
-import com.ez.common.mq.rabbitmq.DynamicRabbitMqClient;
-import com.ez.common.mq.rabbitmq.properties.RabbitMqConfigProperties;
-import com.ez.common.mq.rabbitmq.properties.RabbitMqConsumerProperty;
-import com.ez.common.mq.rabbitmq.properties.RabbitMqProducerProperty;
-import com.ez.common.mq.rabbitmq.properties.RabbitMqProperty;
+import com.github.yedp.ez.common.mq.rabbitmq.DynamicRabbitMqClient;
+import com.github.yedp.ez.common.mq.rabbitmq.properties.RabbitMqConfigProperties;
+import com.github.yedp.ez.common.mq.rabbitmq.properties.RabbitMqConsumerProperty;
+import com.github.yedp.ez.common.mq.rabbitmq.properties.RabbitMqProducerProperty;
+import com.github.yedp.ez.common.mq.rabbitmq.properties.RabbitMqProperty;
 import com.rabbitmq.client.Channel;
 import java.time.Duration;
 import java.util.ArrayList;
